@@ -22,8 +22,8 @@ jobs:
         with:
           github_user_name: Marcellecarol # Substitua pelo seu nome de usuário no GitHub
 
-      # Passo 3: Fazer o upload da animação gerada
-      - name: Push Snake Animation to Repository
+      # Passo 3: Fazer o commit da animação gerada
+      - name: Commit and Push Animation to Repository
         run: |
           mkdir -p dist
           mv ./snake.svg ./dist/github-contribution-grid-snake.svg
@@ -33,7 +33,6 @@ jobs:
           git commit -m "Update snake animation" || echo "No changes to commit"
           git push
 
-        uses: actions/upload-artifact@v3
         with:
           name: snake-animation
           path: dist/github-contribution-grid-snake.svg
