@@ -3,24 +3,36 @@ name: Generate Snake Animation
 on:
   push:
     branches:
-      - output
+      - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
+      # Passo 1: Baixar o repositório
       - name: Checkout Repository
         uses: actions/checkout@v3
-        with:
-          ref: output
 
+      # Passo 2: Gerar a animação
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk/svg-only@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/github-contribution-grid-snake.svg
+          github_user_name: Marcellecarol # Substitua pelo seu nome de usuário no GitHub
+
+      # Passo 3: Fazer o upload da animação gerada
+      - name: Push Snake Animation to Repository
+        run: |
+          mkdir -p dist
+          mv ./snake.svg ./dist/github-contribution-grid-snake.svg
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
+rid-snake.svg
 
       - name: Upload Animation
         uses: actions/upload-artifact@v3
