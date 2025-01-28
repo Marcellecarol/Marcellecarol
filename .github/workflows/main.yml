@@ -32,9 +32,7 @@ jobs:
           git add -A
           git commit -m "Update snake animation" || echo "No changes to commit"
           git push
-rid-snake.svg
 
-      - name: Upload Animation
         uses: actions/upload-artifact@v3
         with:
           name: snake-animation
