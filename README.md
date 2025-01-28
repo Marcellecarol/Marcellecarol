@@ -48,5 +48,5 @@ Atualmente, estou me especializando na área da tecnologia, sempre em busca de a
 ---
 
 ✨ **Citação favorita:** "Sempre aprendendo algo novo!"  
-![Snake animation](https://github.com/Marcellecarol/Marcellecarol/blob/output/github-contribution-grid-snake.svg)
+
 
