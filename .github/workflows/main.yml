@@ -18,9 +18,9 @@ jobs:
 
       # Passo 2: Gerar a animação
       - name: Generate Snake Animation
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk@v2
         with:
-          github_user_name: Marcellecarol # Substitua pelo seu nome de usuário no GitHub
+          github_user_name: Marcellecarol  # Substitua pelo seu nome de usuário no GitHub
 
       # Passo 3: Fazer o commit da animação gerada
       - name: Commit and Push Animation to Repository
@@ -32,6 +32,7 @@ jobs:
           git add -A
           git commit -m "Update snake animation" || echo "No changes to commit"
           git push
+
 
         with:
           name: snake-animation
