@@ -170,15 +170,13 @@ const marcelle: Desenvolvedora = {
   <img src="https://streak-stats.demolab.com?user=Marcellecarol&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <br><br>
   <!-- Snake Animation (Só aparece quando o Github Actions rodar pela primeira vez) -->
-  <img src="https://raw.githubusercontent.com/Marcellecarol/Marcellecarol/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
+  <img src="https://raw.githubusercontent.com/Marcellecarol/Marcellecarol/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
 ## 🎯 Aberta a Oportunidades | Open to Opportunities
 
 ```yaml
-# Em Português
 buscando:
   - cargo: Desenvolvedora Full-Stack / Pesquisadora de IA
   - tipo: Full-time ou Projetos Especiais
