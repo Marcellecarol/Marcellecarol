@@ -167,7 +167,6 @@ const marcelle: Desenvolvedora = {
 ## 📈 Atividade de Contribuições
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Marcellecarol&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <!-- Snake Animation (Só aparece quando o Github Actions rodar pela primeira vez) -->
   <img src="https://raw.githubusercontent.com/Marcellecarol/Marcellecarol/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
