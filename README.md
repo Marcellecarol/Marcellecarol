@@ -5,8 +5,8 @@
 <div align="center">
   
   <h3 align="center">
-    <!-- Aumentado width para 700 para não cortar o texto -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=A965F7&center=true&vCenter=true&width=700&lines=IA+aplicada+a+impacto+social+real;Transformando+Dados+em+Soluções;Segurança+e+Ética+Digital" alt="Typing SVG" />
+    <!-- Aumentado width para 800 para garantir que todo o texto apareça -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=A965F7&center=true&vCenter=true&width=800&lines=IA+aplicada+a+impacto+social+real;Transformando+Dados+em+Soluções;Segurança+e+Ética+Digital" alt="Typing SVG" />
   </h3>
 
   <br>
@@ -20,18 +20,26 @@
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="#projetos" target="_blank">
+  <a href="#-portfolio-2025">
     <img src="https://img.shields.io/badge/PORTFÓLIO-D0659C?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
 
   <br><br>
 
-  <!-- Diferencial: Troféus do GitHub (3D) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Marcellecarol&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-
+  <!-- Diferencial: Badges de Conceito (Personal Branding) -->
+  <!-- Substitui os troféus por algo estável e com a sua marca -->
+  <img src="https://img.shields.io/badge/FOCUS-BIODEFENSE-4B0082?style=for-the-badge&logo=shield&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CORE-AI_%26_DATA-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MISSION-SOCIAL_IMPACT-A965F7?style=for-the-badge&logo=target&logoColor=white" />
+  
   <br><br>
 
-  <!-- Stats lado a lado (Removido count_private para evitar erro de API) -->
+  <!-- Contador de Visitas (Discreto e Funcional) -->
+  <img src="https://komarev.com/ghpvc/?username=Marcellecarol&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS" />
+
+  <br><br>
   <table align="center">
     <tr>
       <td align="center">
@@ -46,6 +54,8 @@
 </div>
 
 ---
+
+<div align="center">
 
 ## 🎯 Sobre Mim
 
@@ -93,6 +103,8 @@ const marcelle: Desenvolvedora = {
 };
 ```
 
+</div>
+
 ---
 
 ## 💻 Stack Tecnológica
@@ -128,7 +140,7 @@ const marcelle: Desenvolvedora = {
 
 ## 🚀 Projetos em Destaque
 
-### 🏢 LuzNoBairro
+### 🏢 [LuzNoBairro](https://github.com/Marcellecarol/LuzNoBairro)
 
 **Gestão Urbana | Aplicação Full-Stack**
 
@@ -137,7 +149,7 @@ const marcelle: Desenvolvedora = {
 
 ---
 
-### 🧠 Research AI
+### 🧠 [Research AI](https://github.com/Marcellecarol/research-ai)
 
 **Automação Científica | Inteligência Artificial**
 
@@ -167,16 +179,20 @@ const marcelle: Desenvolvedora = {
 ## 📈 Atividade de Contribuições
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marcellecarol&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
-</div>
+  <img src="https://streak-stats.demolab.com?user=Marcellecarol&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <br><br>
   <!-- Snake Animation (Só aparece quando o Github Actions rodar pela primeira vez) -->
-  <img src="https://raw.githubusercontent.com/Marcellecarol/Marcellecarol/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Marcellecarol/Marcellecarol/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
 
 ---
+
+<div align="center">
 
 ## 🎯 Aberta a Oportunidades | Open to Opportunities
 
 ```yaml
+# Em Português
 buscando:
   - cargo: Desenvolvedora Full-Stack / Pesquisadora de IA
   - tipo: Full-time ou Projetos Especiais
@@ -190,6 +206,8 @@ interesses:
 disponibilidade: Imediata
 modelo_trabalho: [Remoto, Híbrido]
 ```
+
+</div>
 
 ---
 
@@ -209,8 +227,8 @@ modelo_trabalho: [Remoto, Híbrido]
     <img src="https://img.shields.io/badge/PORTFÓLIO%20DE%20CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="#projetos" target="_blank">
-    <img src="https://img.shields.io/badge/SHOWCASE%20INTERATIVO-D0659C?style=for-the-badge&logo=codepen&logoColor=white" />
+  <a href="#-portfolio-2025">
+    <img src="https://img.shields.io/badge/PORTFÓLIO-D0659C?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
 
   <br><br>
@@ -221,6 +239,11 @@ modelo_trabalho: [Remoto, Híbrido]
   </p>
 
   <br>
+  
+  <!-- Horário Produtivo (Alternativa visual ao Mapa) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marcellecarol&theme=tokyonight&utcOffset=-3" />
+
+  <br><br>
 
   <blockquote>
     "Frontend não é só código — é experiência, emoção e narrativa"
@@ -233,4 +256,3 @@ modelo_trabalho: [Remoto, Híbrido]
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=8A2BE2,4B0082" />
 
 </div>
-
