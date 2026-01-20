@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Marcelle%20Carolina&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Biodefense%20Researcher&descAlignY=55&descAlign=60&customColorList=0d1117,7b1fa2,4a148c&v=2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Marcelle%20Carolina&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20%7C%20Biodefense%20Researcher&descAlignY=55&descAlign=60&customColorList=240046,7b2cbf&v=4" />
 </div>
 
 <div align="center">
@@ -253,6 +253,6 @@ modelo_trabalho: [Remoto, Híbrido]
   <sub>✨ Construído com paixão e código limpo | Atualizado em: 2026</sub>
   
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=8A2BE2,4B0082" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=0d1117,7b1fa2,4a148c&v=3" />
 
 </div>
